@@ -10,6 +10,7 @@ PREREQUISITES AND INSTALLATION INSTRUCTIONS:
 For the program to run properly, it requires ffmpeg-20210113-ca21cb1e36-win64-static (ffmpeg-yyyymmdd-ffmpegCommitID; included as a zip archive to download along with this .py file), libraries pytube, moviepy, and pydub, and python V3.7.6.
 
 STEPS:
+
 First, Install python 3.7.6 through https://www.python.org/downloads/release/python-376/ and download the "Windows x86-64 executable installer". Check the "Add Python 3.7 to PATH" box at the bottom-right of the installer and then run the installer. This will install all of Python's components including pip installation, which allows us to then install the 3 libraries we need to run this program.
 
 Then, unzip the ffmpeg-20210113-ca21cb1e36-win64-static archive into your OS drive. We will need to add the bin folder that contains the ffmpeg.exe file to our system path to allow us to run the commands. So, it is best to put it directly into your OS as a folder so it is a shorter path (C:\ffmpeg\bin).
