@@ -36,5 +36,5 @@ For pydub, type: "pip install pydub" and press enter
 
 After following all these steps, all the prerequisites should be installed correctly and the program will run properly!
 
-# IMPORTANT NOTE: If you are doing multiple conversions of the SAME file name and video/music file, make sure to do one conversion then put the new file in a different folder before doing another conversion
+IMPORTANT NOTE: If you are doing multiple conversions of the SAME file name and video/music file, make sure to do one conversion then put the new file in a different folder before doing another conversion
 
