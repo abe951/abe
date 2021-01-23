@@ -1,6 +1,6 @@
 This program's intended purpose is to process several types of video and audio files and convert them into a different file type. At the moment, the current conversions include: 
 
-YouTube to .mp4 (video format - audio only)
+YouTube to .mp4 (same video format - filtered to keep audio only)
 
 YouTube to .wav 
 
