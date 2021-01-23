@@ -1,7 +1,6 @@
 # This program's intended purpose is to process several types of video and audio files and convert them into a different file type using libraries pytube, moviepy, and pydub
 # Make sure to read the README.md for full description including prerequisites and installation instructions BEFORE running this program
 # The music conversions include: YouTube --> .mp4 (same video format - filtered to keep audio only); YouTube --> .wav converter; YoutTube --> .mp3 converter;  .mp3 --> .wav converter
-# IMPORTANT NOTE: If you are doing multiple conversions of the same file name and video/music file, make sure to do one conversion then put the new file in a different folder before doing another conversion
 
 # imports pytube module and imports the YouTube class to allow interaction with pytube library and YouTube
 from pytube import YouTube
