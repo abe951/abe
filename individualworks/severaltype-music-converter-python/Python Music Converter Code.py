@@ -107,10 +107,10 @@ def main():
         # .mp3 to .wav file conversion
         elif num == "4":
                 # Asks the user to input the current directory name of the file to be converted
-                optionThreeURL = input("Enter the current directory name of the file that you want to convert (i.e. D:/example/Bandit.mp3): ")
+                optionThreeURL = input("Enter the current directory name of the file that you want to convert (i.e. D:\example\Bandit.mp3): ")
                 
                 # Asks the user to input the new directory name of the file as if it was converted
-                convertedURL = input("Now enter the new directory name replacing the .mp3 with .wav (i.e. D:/example/Bandit.wav): ")
+                convertedURL = input("Now enter the new directory name replacing the .mp3 with .wav (i.e. D:\example\Bandit.wav): ")
 
                 # Returns the .mp3 file at current directory as an AudioSegment object and set it to a variable
                 sound = pydub.AudioSegment.from_mp3(optionThreeURL)
