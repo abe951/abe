@@ -22,7 +22,7 @@ Type in Windows Search "Edit the system environment variables" and click on it. 
 
 Under "System variables", click on "Path" so that it takes you to all the paths available and to where you can edit the environment variables.
 
-In the top-right corner, click on "New" and then type the our path (C:\ffmpeg\bin). Press "Ok" then press "Ok", and press "Ok". 
+In the top-right corner, click on "New" and then type in our path (C:\ffmpeg\bin). If you chose to have the ffmpeg folder in a different directory, then ensure that you type that exact directory as the path. Press "Ok" then press "Ok", and press "Ok". 
 
 To ensure that it was installed properly, pull up the command prompt and type ffmpeg -codecs. If the system did not recognize the command, then go back and re-check if the path was correct.
 
