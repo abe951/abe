@@ -1,1 +1,1 @@
-This program's intended purpose is to serve as a calculator that performs addition and multiplication on any two positive integers using data structures and algorithms. Specifically, my code implementation primarily uses stacks. 
+This program's intended purpose is to serve as a calculator that performs addition and multiplication on any two positive integers using data structures and basic C++ tasks. Specifically, my code implementation primarily uses stacks to add and mutliply large numbers.
