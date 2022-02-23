@@ -6,8 +6,7 @@
      File src=new File("C:\\webdriver\\DataSource.xls");
       
      //This step is for loading the file. We have used FileInputStream as
-     //we are reading the excel. In case you want to write into the file,
-     //you need to use FileOutputStream. The path of the file is passed as an argument to FileInputStream
+     //we are reading the excel. The path of the file is passed as an argument to FileInputStream
      FileInputStream finput = new FileInputStream(src);
       
      //This step is to load the workbook of the excel which is done by global HSSFWorkbook in which we have
